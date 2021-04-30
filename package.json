@@ -1,5 +1,5 @@
 {
-  "name": "semver-set",
+  "name": "@isaaceindhoven/semver-set",
   "version": "0.2.0",
   "description": "Set operations for semver ranges.",
   "main": "lib/index.js",
