@@ -2,6 +2,11 @@
 
 Tools to set semver. right now only intersect: return the most common semver of 2 or more given versions.
 
+[![NPM](https://nodei.co/npm/@isaac.frontend/semver-set.png)](https://nodei.co/npm/@isaac.frontend/semver-set/)
+
+[![npm version](https://badge.fury.io/js/%40isaac.frontend%2Fsemver-set.svg)](https://badge.fury.io/js/%40isaac.frontend%2Fsemver-set)
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 ## Installation
 
 Install this module through npm or clone it:
