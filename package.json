@@ -1,0 +1,20 @@
+{
+  "name": "semver-set",
+  "version": "0.2.0",
+  "description": "Set operations for semver ranges.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
+  "contributors": [
+    "Lucien Immink <lucien.immink@isaac.nl>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cartesian-product": "^2.1.2",
+    "invariant": "^2.2.4",
+    "lodash": "^4.17.21",
+    "semver": "^4.3.6"
+  }
+}
