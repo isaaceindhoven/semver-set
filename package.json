@@ -15,6 +15,6 @@
     "cartesian-product": "^2.1.2",
     "invariant": "^2.2.4",
     "lodash": "^4.17.21",
-    "semver": "^4.3.6"
+    "semver": "^5.7.2"
   }
 }
